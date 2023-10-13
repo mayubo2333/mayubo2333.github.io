@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yubo Ma"
-description              : "Ph.D. candidate"
+description              : "Ph.D. candidate. NLPer"
 repository               : "mayubo2333/mayubo2333.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/mayubo2333"
+  twitter          : "mayubo2333"
   vine             :
   weibo            :
   xing             :
