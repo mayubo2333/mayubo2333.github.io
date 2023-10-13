@@ -17,42 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science and Engineering at Nanyang Technological University (NTU). I am co-advised by Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/) and Prof. [Yixin Cao](https://sites.google.com/view/yixin-homepage). My research interests lie in event-centric information extraction (including event detection and event argument extraction) and tool-augmented large language models.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: One paper accepted to EMNLP2023 (Findings)!
+- *2023.06*: Join Microsoft Teams as a research intern!
+- *2023.05*: Pass my Ph.D. Qualification Examination and become a Ph.D. candidate now!
+- *2023.05*: One paper accepted to ACL2023 (main conference)!  
+- *2022.02*: Two paper accepted to ACL2022 (one main, one demonstration system)!
+
+# 📖 Educations
+- *2021.08 - Present*, PhD. student/candidate, School of Computer Science and Engineering, Nanyang Technological University. 
+- *2017.06 - 2020.06*, B.Eng., Department of Electronic Engineering, Tsinghua University.
+- *2015.08 - 2017.06*, Undergraduate, School of Life Science, Tsinghua University.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+^ indicates equal contribution.
+- [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](), **Yubo Ma**, Yixin Cao, Yong Ching Hong, Aixin Sun. **EMNLP 2023 (Findings)**
+- [Few-shot Event Detection: An Empirical Study and a Unified View](https://arxiv.org/abs/2303.08559), **Yubo Ma**, Zehao Wang, Yixin Cao, Aixin Sun. **ACL 2023**
+- [Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction](https://aclanthology.org/2022.acl-long.466/), **Yubo Ma**^, Zehao Wang^, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao. **ACL 2022**
+- [MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities](https://aclanthology.org/2022.acl-demo.23/), **Yubo Ma**^, Zehao Wang^, Mukai Li^, Yixin Cao^, Meiqi Chen^, Xinze Li, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao. **ACL 2022 (Demo Track)**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📒 Preprint
+- [Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution](https://arxiv.org/pdf/2310.05634.pdf), Xinze Li, Yixin Cao, Liangming Pan, **Yubo Ma**, Aixin Sun. 2023.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06 - Present*, Research Intern, Microsoft Research (MSR) & Azure AI, USA (remote).
+- *2021.01 - 2021.07*, Research Intern, Sensetime Research, China.
+
+# 📚 Academic Services
+- *Conference Reviewer*: ACL 2023, EMNLP 2023, CCL 2023
+- *Journal Reviewer*: TOIS
