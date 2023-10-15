@@ -25,13 +25,7 @@ My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science a
 - *2023.06*: Join Microsoft Research as a research intern!
 - *2023.05*: Pass my Ph.D. Qualification Examination and become a Ph.D. candidate now!
 - *2023.05*: One paper accepted to ACL2023 (main conference)!  
-- *2022.02*: Two paper accepted to ACL2022 (one main, one demonstration system)!
-
-
-# 📖 Educations
-- *2021.08 - Present*, PhD. student/candidate, School of Computer Science and Engineering, Nanyang Technological University. 
-- *2017.06 - 2020.06*, B.Eng., Department of Electronic Engineering, Tsinghua University.
-- *2015.08 - 2017.06*, Undergraduate, School of Life Sciences, Tsinghua University.
+- *2022.02*: Two papers accepted to ACL2022 (one main, one demonstration system)!
 
 
 # 📝 Publications 
@@ -44,6 +38,12 @@ My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science a
 
 # 📒 Preprint
 - [Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution](https://arxiv.org/pdf/2310.05634.pdf), Xinze Li, Yixin Cao, Liangming Pan, **Yubo Ma**, Aixin Sun. 2023.
+
+
+# 📖 Educations
+- *2021.08 - Present*, PhD. student/candidate, School of Computer Science and Engineering, Nanyang Technological University. 
+- *2017.06 - 2020.06*, B.Eng., Department of Electronic Engineering, Tsinghua University.
+- *2015.08 - 2017.06*, Undergraduate, School of Life Sciences, Tsinghua University.
 
 
 # 💻 Internships
