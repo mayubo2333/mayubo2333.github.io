@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yubo Ma"
-description              : "Ph.D. candidate @ NTU.\nNLPer focusing on IE, LLM"
+description              : "Ph.D. candidate.\nNLPer focusing on IE, LLM"
 repository               : "mayubo2333/mayubo2333.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yubo Ma"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanyang Technological University"
+  bio              : "S-Lab, Nanyang Technological University"
   location         : "Singapore, Singapore"
   employer         :
   pubmed           : 

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science and Engineering at Nanyang Technological University (NTU). I am co-advised by Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/) and Prof. [Yixin Cao](https://sites.google.com/view/yixin-homepage). My research interests lie in event-centric information extraction (including event detection and event argument extraction) and tool-augmented large language models.
+My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science and Engineering at Nanyang Technological University (NTU). I am co-advised by Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/) and Prof. [Yixin Cao](https://sites.google.com/view/yixin-homepage). I received my B.Eng. degree in Electronic Engineering from Tsinghua University in 2020. My research interests lie in event-centric information extraction (including event detection and event argument extraction) and tool-augmented large language models. Currently, I am also a research intern at Microsoft Research (MSR) & Azure AI.
 
 
 # 🔥 News
