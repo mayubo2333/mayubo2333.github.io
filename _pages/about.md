@@ -37,7 +37,9 @@ My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science a
 
 
 # 📒 Preprint
-- [Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution](https://arxiv.org/pdf/2310.05634.pdf), Xinze Li, Yixin Cao, Liangming Pan, **Yubo Ma**, Aixin Sun. 2023.
+- [Information Extraction in Low-Resource Scenarios: Survey and Perspective](https://arxiv.org/abs/2202.08063), Shumin Deng, **Yubo Ma**, Ningyu Zhang, Yixin Cao, Bryan Hooi. 2023.
+- [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/abs/2310.09158), Meiqi Chen, **Yubo Ma**, Kaitao Song, Yixin Cao, Yan Zhang, Dongsheng Li. 2023.
+- [Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution](https://arxiv.org/abs/2310.05634), Xinze Li, Yixin Cao, Liangming Pan, **Yubo Ma**, Aixin Sun. 2023.
 
 
 # 📖 Educations
