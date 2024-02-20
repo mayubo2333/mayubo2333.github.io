@@ -19,6 +19,8 @@ redirect_from:
 
 My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science and Engineering at Nanyang Technological University (NTU). I am co-advised by Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/) and Prof. [Yixin Cao](https://sites.google.com/view/yixin-homepage). I received my B.Eng. degree in Electronic Engineering from Tsinghua University in 2020. My research interests lie in event-centric information extraction (including event detection and event argument extraction) and tool-augmented large language models. Currently, I am also a research intern at Microsoft Research (MSR) & Azure AI.
 
+I'm finding internship position during 2024 fall - 2025 spring (part-time or remote preferred). Feel free to send me an email at yubo001@e.ntu.edu.sg if your team has open positions. Thanks!
+
 
 # 🔥 News
 - *2023.10*: One paper accepted to EMNLP2023 (Findings)!
@@ -28,18 +30,19 @@ My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science a
 - *2022.02*: Two papers accepted to ACL2022 (one main, one demonstration system)!
 
 
+# 📒 Preprint
+- [SciAgent: Tool-augmented Language Models for Scientific Reasoning](https://arxiv.org/abs/2402.11451), **Yubo Ma**, Zhibin Gou, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun. 2024.
+- [Information Extraction in Low-Resource Scenarios: Survey and Perspective](https://arxiv.org/abs/2202.08063), Shumin Deng, **Yubo Ma**, Ningyu Zhang, Yixin Cao, Bryan Hooi. 2023.
+- [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/abs/2310.09158), Meiqi Chen, **Yubo Ma**, Kaitao Song, Yixin Cao, Yan Zhang, Dongsheng Li. 2023.
+- [Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution](https://arxiv.org/abs/2310.05634), Xinze Li, Yixin Cao, Liangming Pan, **Yubo Ma**, Aixin Sun. 2023.
+
+
 # 📝 Publications 
 ^ indicates equal contribution.
 - [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559), **Yubo Ma**, Yixin Cao, Yong Ching Hong, Aixin Sun. **EMNLP 2023 (Findings)**
 - [Few-shot Event Detection: An Empirical Study and a Unified View](https://aclanthology.org/2023.acl-long.628/), **Yubo Ma**, Zehao Wang, Yixin Cao, Aixin Sun. **ACL 2023**
 - [Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction](https://aclanthology.org/2022.acl-long.466/), **Yubo Ma**^, Zehao Wang^, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao. **ACL 2022**
 - [MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities](https://aclanthology.org/2022.acl-demo.23/), **Yubo Ma**^, Zehao Wang^, Mukai Li^, Yixin Cao^, Meiqi Chen^, Xinze Li, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao. **ACL 2022 (Demo Track)**
-
-
-# 📒 Preprint
-- [Information Extraction in Low-Resource Scenarios: Survey and Perspective](https://arxiv.org/abs/2202.08063), Shumin Deng, **Yubo Ma**, Ningyu Zhang, Yixin Cao, Bryan Hooi. 2023.
-- [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/abs/2310.09158), Meiqi Chen, **Yubo Ma**, Kaitao Song, Yixin Cao, Yan Zhang, Dongsheng Li. 2023.
-- [Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution](https://arxiv.org/abs/2310.05634), Xinze Li, Yixin Cao, Liangming Pan, **Yubo Ma**, Aixin Sun. 2023.
 
 
 # 📖 Educations
@@ -54,5 +57,5 @@ My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science a
 
 
 # 📚 Academic Services
-- *Conference Reviewer*: ACL 2023, EMNLP 2023, CCL 2023
+- *Conference Reviewer*: ACL ARR (NAACL 2024), ACL 2023, EMNLP 2023, CCL 2023
 - *Journal Reviewer*: TOIS
