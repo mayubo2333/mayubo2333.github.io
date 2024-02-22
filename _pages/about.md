@@ -31,7 +31,7 @@ I'm finding internship position during 2024 fall - 2025 spring (part-time or rem
 
 
 # 📒 Preprint
-- [SciAgent: Tool-augmented Language Models for Scientific Reasoning](https://arxiv.org/abs/2402.11451), **Yubo Ma**, Zhibin Gou, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Awadalla, Chen Weizhu. 2024.
+- [SciAgent: Tool-augmented Language Models for Scientific Reasoning](https://arxiv.org/abs/2402.11451), **Yubo Ma**, Zhibin Gou, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Awadalla, Weizhu Chen. 2024.
 - [Information Extraction in Low-Resource Scenarios: Survey and Perspective](https://arxiv.org/abs/2202.08063), Shumin Deng, **Yubo Ma**, Ningyu Zhang, Yixin Cao, Bryan Hooi. 2023.
 - [Learning To Teach Large Language Models Logical Reasoning](https://arxiv.org/abs/2310.09158), Meiqi Chen, **Yubo Ma**, Kaitao Song, Yixin Cao, Yan Zhang, Dongsheng Li. 2023.
 - [Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution](https://arxiv.org/abs/2310.05634), Xinze Li, Yixin Cao, Liangming Pan, **Yubo Ma**, Aixin Sun. 2023.
