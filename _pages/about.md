@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science and Engineering at Nanyang Technological University (NTU). I am co-advised by Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/) and Prof. [Yixin Cao](https://sites.google.com/view/yixin-homepage). I received my B.Eng. degree in Electronic Engineering from Tsinghua University in 2020. My research interests lie in event-centric information extraction (including event detection and event argument extraction) and tool-augmented large language models. Currently, I am also a research intern at Microsoft Research (MSR) & Azure AI.
-
-I'm finding internship position during 2024 fall - 2025 spring (part-time or remote preferred). Feel free to send me an email at yubo001@e.ntu.edu.sg if your team has open positions. Thanks!
+My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science and Engineering at Nanyang Technological University (NTU). I am co-advised by Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/) and Prof. [Yixin Cao](https://sites.google.com/view/yixin-homepage). I received my B.Eng. degree in Electronic Engineering from Tsinghua University in 2020. My research interests lie in event-centric information extraction (including event detection and event argument extraction) and tool-augmented large language models.
 
 
 # 🔥 News
@@ -52,10 +50,11 @@ I'm finding internship position during 2024 fall - 2025 spring (part-time or rem
 
 
 # 💻 Internships
-- *2023.06 - Present*, Research Intern, Microsoft Research (MSR) & Azure AI, USA (remote).
+- *2024.04 - Present*, Research Intern, Shanghai AI Laboratory, China (remote).
+- *2023.06 - 2024.03*, Research Intern, Microsoft Research (MSR) & Azure AI, USA (remote).
 - *2021.01 - 2021.07*, Research Intern, Sensetime Research, China.
 
 
 # 📚 Academic Services
-- *Conference Reviewer*: ACL ARR (NAACL 2024), ACL 2023, EMNLP 2023, CCL 2023
+- *Conference Reviewer*: ACL ARR (ACL 2024, NAACL 2024), ACL 2023, EMNLP 2023, CCL 2023
 - *Journal Reviewer*: TOIS
