@@ -52,6 +52,7 @@ My name is Yubo Ma, a third-year Ph.D. candidate in School of Computer Science a
 
 
 # 💻 Internships
+- *2024.03 - Present*, Research Intern, Shanghai AI Labratory, China (remote).
 - *2023.06 - 2024.03*, Research Intern, Microsoft Research (MSR) & Azure AI, USA (remote).
 - *2021.01 - 2021.07*, Research Intern, Sensetime Research, China.
 
