@@ -21,6 +21,7 @@ My name is Yubo Ma, a fourth-year Ph.D. candidate in School of Computer Science 
 
 
 # 🔥 News
+- *2024.09*: One papers accepted to NeurIPS 2024 as spotlight!
 - *2024.09*: Two papers accepted to EMNLP 2024 (one main, one findings)!
 - *2024.05*: Two papers accepted to ACL 2024 (one main, one findings)!
 - *2023.10*: One paper accepted to EMNLP 2023 (Findings)!
@@ -31,13 +32,13 @@ My name is Yubo Ma, a fourth-year Ph.D. candidate in School of Computer Science 
 
 
 # 📒 Preprint
-- [MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations](https://arxiv.org/abs/2407.01523), **Yubo Ma**, Yuhang Zang, Liangyu Chen, Meiqi Chen, Yizhu Jiao, Xinze Li, Xinyuan Lu, Ziyu Liu, Yan Ma, Xiaoyi Dong, Pan Zhang, Liangming Pan, Yu-Gang Jiang, Jiaqi Wang, Yixin Cao, Aixin Sun. 2024.
 - [TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning](https://arxiv.org/abs/2409.11724), Xinyuan Lu, Liangming Pan, **Yubo Ma**, Preslav Nakov, Min-Yen Kan. 2024.
 - [Information Extraction in Low-Resource Scenarios: Survey and Perspective](https://arxiv.org/abs/2202.08063), Shumin Deng, **Yubo Ma**, Ningyu Zhang, Yixin Cao, Bryan Hooi. 2023.
 
 
 # 📝 Publications
 ^ indicates equal contribution.
+- [MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations](https://arxiv.org/abs/2407.01523), **Yubo Ma**, Yuhang Zang, Liangyu Chen, Meiqi Chen, Yizhu Jiao, Xinze Li, Xinyuan Lu, Ziyu Liu, Yan Ma, Xiaoyi Dong, Pan Zhang, Liangming Pan, Yu-Gang Jiang, Jiaqi Wang, Yixin Cao, Aixin Sun. **NeurIPS 2024 spotlight (dataset track)**
 - [SciAgent: Tool-augmented Language Models for Scientific Reasoning](https://arxiv.org/abs/2402.11451), **Yubo Ma**, Zhibin Gou, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Awadalla, Weizhu Chen. **EMNLP 2024**
 - [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://arxiv.org/abs/2303.08559), **Yubo Ma**, Yixin Cao, Yong Ching Hong, Aixin Sun. **EMNLP 2023 (Findings)**
 - [Few-shot Event Detection: An Empirical Study and a Unified View](https://aclanthology.org/2023.acl-long.628/), **Yubo Ma**, Zehao Wang, Yixin Cao, Aixin Sun. **ACL 2023**
