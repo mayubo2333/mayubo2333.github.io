@@ -38,7 +38,7 @@ I am a researcher in the Qwen Team and a fourth-year Ph.D. candidate in College 
 
 # 📒 Preprint
 - [Toward Generalizable Evaluation in the LLM Era: A Survey Beyond Benchmarks](https://arxiv.org/abs/2504.18838), Yixin Cao, Shibo Hong, Xinze Li, Jiahao Ying, **Yubo Ma**, Haiyuan Liang, Yantao Liu, Zijun Yao, Xiaozhi Wang, Dan Huang, Wenxuan Zhang, Lifu Huang, Muhao Chen, Lei Hou, Qianru Sun, Xingjun Ma, Zuxuan Wu, Min-Yen Kan, David Lo, Qi Zhang, Heng Ji, Jing Jiang, Juanzi Li, Aixin Sun, Xuanjing Huang, Tat-Seng Chua, Yu-Gang Jiang. 2025.
-- [Long Context vs. RAG for LLMs: An Evaluation and Revisits] (https://arxiv.org/abs/2501.01880), Xinze Li, Yixin Cao, **Yubo Ma**, Aixin Sun. 2024.
+- [Long Context vs. RAG for LLMs: An Evaluation and Revisits](https://arxiv.org/abs/2501.01880), Xinze Li, Yixin Cao, **Yubo Ma**, Aixin Sun. 2024.
 
 
 # 📝 Publications
@@ -50,7 +50,7 @@ I am a researcher in the Qwen Team and a fourth-year Ph.D. candidate in College 
 - [Few-shot Event Detection: An Empirical Study and a Unified View](https://aclanthology.org/2023.acl-long.628/), **Yubo Ma**, Zehao Wang, Yixin Cao, Aixin Sun. **ACL 2023**
 - [Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction](https://aclanthology.org/2022.acl-long.466/), **Yubo Ma**^, Zehao Wang^, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao. **ACL 2022**
 - [MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities](https://aclanthology.org/2022.acl-demo.23/), **Yubo Ma**^, Zehao Wang^, Mukai Li^, Yixin Cao^, Meiqi Chen^, Xinze Li, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao. **ACL 2022 (Demo Track)**
-- [Synergistic Weak-Strong Collaboration by Aligning Preferences](https://arxiv.org/abs/2504.15188), Yizhu Jiao, Xuchao Zhang, Zhaoyang Wang, Yubo Ma, Zhun Deng, Rujia Wang, Chetan Bansal, Saravan Rajmohan, Jiawei Han, Huaxiu Yao. **ACL 2025**
+- [Synergistic Weak-Strong Collaboration by Aligning Preferences](https://arxiv.org/abs/2504.15188), Yizhu Jiao, Xuchao Zhang, Zhaoyang Wang, **Yubo Ma**, Zhun Deng, Rujia Wang, Chetan Bansal, Saravan Rajmohan, Jiawei Han, Huaxiu Yao. **ACL 2025**
 - [Antileak-bench: Preventing data contamination by automatically constructing benchmarks with updated real-world knowledge](https://arxiv.org/abs/2412.13670), Xiaobao Wu, Liangming Pan, Yuxi Xie, Ruiwen Zhou, Shuai Zhao, **Yubo Ma**, Mingzhe Du, Rui Mao, Anh Tuan Luu, William Yang Wang. **ACL 2025**
 - [InternLM-XComposer2. 5-Reward: A Simple Yet Effective Multi-Modal Reward Model](https://arxiv.org/abs/2501.12368), Yuhang Zang, Xiaoyi Dong, Pan Zhang, Yuhang Cao, Ziyu Liu, Shengyuan Ding, Shenxi Wu, **Yubo Ma**, Haodong Duan, Wenwei Zhang, Kai Chen, Dahua Lin, Jiaqi Wang. **ACL 2025 (Findings)**
 - [TART: An Open-Source Tool-Augmented Framework for Explainable Table-based Reasoning](https://arxiv.org/abs/2409.11724), Xinyuan Lu, Liangming Pan, **Yubo Ma**, Preslav Nakov, Min-Yen Kan. **NAACL 2025 (Findings)**
